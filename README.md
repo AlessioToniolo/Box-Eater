@@ -1,2 +1,2 @@
 # Box-Eater
-Play this simple game in python with turtle where you move around a map and eat boxes. Credits to a tutorial on repl.it (thanks minermaniac447)
+I learned to type python with Turtle from a helpful tutorial on Repl.it and it was really great and I suggest you check it out. [ THe author is minermaniac447]. Please give suggestions or helpful code to make this game live up to a great potential. Also add a comment if I should add more boxes. Have Fun!!!
